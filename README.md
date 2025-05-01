@@ -1,2 +1,2 @@
-# CS4153 Unit 3 Explore & Discover Emory Meursing
+# CS4153 Unit 3 Explore Emory Meursing
  
