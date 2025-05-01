@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		6EFD5AD92DAF28EC0043E8CA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6EFD5AC02DAF28EA0043E8CA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6EFD5AC72DAF28EA0043E8CA;
+			remoteInfo = "CS4153 Unit 3 Explore & Discover Emory Meursing";
+		};
+		6EFD5AE32DAF28EC0043E8CA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6EFD5AC02DAF28EA0043E8CA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6EFD5AC72DAF28EA0043E8CA;
+			remoteInfo = "CS4153 Unit 3 Explore & Discover Emory Meursing";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		6EFD5AC82DAF28EA0043E8CA /* CS4153 Unit 3 Explore & Discover Emory Meursing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CS4153 Unit 3 Explore & Discover Emory Meursing.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6EFD5AD82DAF28EC0043E8CA /* CS4153 Unit 3 Explore & Discover Emory MeursingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CS4153 Unit 3 Explore & Discover Emory MeursingTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6EFD5AE22DAF28EC0043E8CA /* CS4153 Unit 3 Explore & Discover Emory MeursingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CS4153 Unit 3 Explore & Discover Emory MeursingUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		6EFD5ACA2DAF28EA0043E8CA /* CS4153 Unit 3 Explore & Discover Emory Meursing */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "CS4153 Unit 3 Explore & Discover Emory Meursing";
+			sourceTree = "<group>";
+		};
+		6EFD5ADB2DAF28EC0043E8CA /* CS4153 Unit 3 Explore & Discover Emory MeursingTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "CS4153 Unit 3 Explore & Discover Emory MeursingTests";
+			sourceTree = "<group>";
+		};
+		6EFD5AE52DAF28EC0043E8CA /* CS4153 Unit 3 Explore & Discover Emory MeursingUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "CS4153 Unit 3 Explore & Discover Emory MeursingUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6EFD5AC52DAF28EA0043E8CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EFD5AD52DAF28EC0043E8CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EFD5ADF2DAF28EC0043E8CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6EFD5ABF2DAF28EA0043E8CA = {
+			isa = PBXGroup;
+			children = (
+				6EFD5ACA2DAF28EA0043E8CA /* CS4153 Unit 3 Explore & Discover Emory Meursing */,
+				6EFD5ADB2DAF28EC0043E8CA /* CS4153 Unit 3 Explore & Discover Emory MeursingTests */,
+				6EFD5AE52DAF28EC0043E8CA /* CS4153 Unit 3 Explore & Discover Emory MeursingUITests */,
+				6EFD5AC92DAF28EA0043E8CA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6EFD5AC92DAF28EA0043E8CA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6EFD5AC82DAF28EA0043E8CA /* CS4153 Unit 3 Explore & Discover Emory Meursing.app */,
+				6EFD5AD82DAF28EC0043E8CA /* CS4153 Unit 3 Explore & Discover Emory MeursingTests.xctest */,
+				6EFD5AE22DAF28EC0043E8CA /* CS4153 Unit 3 Explore & Discover Emory MeursingUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6EFD5AC72DAF28EA0043E8CA /* CS4153 Unit 3 Explore & Discover Emory Meursing */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6EFD5AEC2DAF28EC0043E8CA /* Build configuration list for PBXNativeTarget "CS4153 Unit 3 Explore & Discover Emory Meursing" */;
+			buildPhases = (
+				6EFD5AC42DAF28EA0043E8CA /* Sources */,
+				6EFD5AC52DAF28EA0043E8CA /* Frameworks */,
+				6EFD5AC62DAF28EA0043E8CA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				6EFD5ACA2DAF28EA0043E8CA /* CS4153 Unit 3 Explore & Discover Emory Meursing */,
+			);
+			name = "CS4153 Unit 3 Explore & Discover Emory Meursing";
+			packageProductDependencies = (
+			);
+			productName = "CS4153 Unit 3 Explore & Discover Emory Meursing";
+			productReference = 6EFD5AC82DAF28EA0043E8CA /* CS4153 Unit 3 Explore & Discover Emory Meursing.app */;
+			productType = "com.apple.product-type.application";
+		};
+		6EFD5AD72DAF28EC0043E8CA /* CS4153 Unit 3 Explore & Discover Emory MeursingTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6EFD5AEF2DAF28EC0043E8CA /* Build configuration list for PBXNativeTarget "CS4153 Unit 3 Explore & Discover Emory MeursingTests" */;
+			buildPhases = (
+				6EFD5AD42DAF28EC0043E8CA /* Sources */,
+				6EFD5AD52DAF28EC0043E8CA /* Frameworks */,
+				6EFD5AD62DAF28EC0043E8CA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6EFD5ADA2DAF28EC0043E8CA /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				6EFD5ADB2DAF28EC0043E8CA /* CS4153 Unit 3 Explore & Discover Emory MeursingTests */,
+			);
+			name = "CS4153 Unit 3 Explore & Discover Emory MeursingTests";
+			packageProductDependencies = (
+			);
+			productName = "CS4153 Unit 3 Explore & Discover Emory MeursingTests";
+			productReference = 6EFD5AD82DAF28EC0043E8CA /* CS4153 Unit 3 Explore & Discover Emory MeursingTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		6EFD5AE12DAF28EC0043E8CA /* CS4153 Unit 3 Explore & Discover Emory MeursingUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6EFD5AF22DAF28EC0043E8CA /* Build configuration list for PBXNativeTarget "CS4153 Unit 3 Explore & Discover Emory MeursingUITests" */;
+			buildPhases = (
+				6EFD5ADE2DAF28EC0043E8CA /* Sources */,
+				6EFD5ADF2DAF28EC0043E8CA /* Frameworks */,
+				6EFD5AE02DAF28EC0043E8CA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6EFD5AE42DAF28EC0043E8CA /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				6EFD5AE52DAF28EC0043E8CA /* CS4153 Unit 3 Explore & Discover Emory MeursingUITests */,
+			);
+			name = "CS4153 Unit 3 Explore & Discover Emory MeursingUITests";
+			packageProductDependencies = (
+			);
+			productName = "CS4153 Unit 3 Explore & Discover Emory MeursingUITests";
+			productReference = 6EFD5AE22DAF28EC0043E8CA /* CS4153 Unit 3 Explore & Discover Emory MeursingUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6EFD5AC02DAF28EA0043E8CA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					6EFD5AC72DAF28EA0043E8CA = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					6EFD5AD72DAF28EC0043E8CA = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 6EFD5AC72DAF28EA0043E8CA;
+					};
+					6EFD5AE12DAF28EC0043E8CA = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 6EFD5AC72DAF28EA0043E8CA;
+					};
+				};
+			};
+			buildConfigurationList = 6EFD5AC32DAF28EA0043E8CA /* Build configuration list for PBXProject "CS4153 Unit 3 Explore & Discover Emory Meursing" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6EFD5ABF2DAF28EA0043E8CA;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 6EFD5AC92DAF28EA0043E8CA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6EFD5AC72DAF28EA0043E8CA /* CS4153 Unit 3 Explore & Discover Emory Meursing */,
+				6EFD5AD72DAF28EC0043E8CA /* CS4153 Unit 3 Explore & Discover Emory MeursingTests */,
+				6EFD5AE12DAF28EC0043E8CA /* CS4153 Unit 3 Explore & Discover Emory MeursingUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6EFD5AC62DAF28EA0043E8CA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EFD5AD62DAF28EC0043E8CA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EFD5AE02DAF28EC0043E8CA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6EFD5AC42DAF28EA0043E8CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EFD5AD42DAF28EC0043E8CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6EFD5ADE2DAF28EC0043E8CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6EFD5ADA2DAF28EC0043E8CA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6EFD5AC72DAF28EA0043E8CA /* CS4153 Unit 3 Explore & Discover Emory Meursing */;
+			targetProxy = 6EFD5AD92DAF28EC0043E8CA /* PBXContainerItemProxy */;
+		};
+		6EFD5AE42DAF28EC0043E8CA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6EFD5AC72DAF28EA0043E8CA /* CS4153 Unit 3 Explore & Discover Emory Meursing */;
+			targetProxy = 6EFD5AE32DAF28EC0043E8CA /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		6EFD5AEA2DAF28EC0043E8CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		6EFD5AEB2DAF28EC0043E8CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6EFD5AED2DAF28EC0043E8CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"CS4153 Unit 3 Explore & Discover Emory Meursing/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "OSU.CS4153-Unit-3-Explore---Discover-Emory-Meursing";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6EFD5AEE2DAF28EC0043E8CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"CS4153 Unit 3 Explore & Discover Emory Meursing/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "OSU.CS4153-Unit-3-Explore---Discover-Emory-Meursing";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		6EFD5AF02DAF28EC0043E8CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "OSU.CS4153-Unit-3-Explore---Discover-Emory-MeursingTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CS4153 Unit 3 Explore & Discover Emory Meursing.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CS4153 Unit 3 Explore & Discover Emory Meursing";
+			};
+			name = Debug;
+		};
+		6EFD5AF12DAF28EC0043E8CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "OSU.CS4153-Unit-3-Explore---Discover-Emory-MeursingTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CS4153 Unit 3 Explore & Discover Emory Meursing.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CS4153 Unit 3 Explore & Discover Emory Meursing";
+			};
+			name = Release;
+		};
+		6EFD5AF32DAF28EC0043E8CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "OSU.CS4153-Unit-3-Explore---Discover-Emory-MeursingUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "CS4153 Unit 3 Explore & Discover Emory Meursing";
+			};
+			name = Debug;
+		};
+		6EFD5AF42DAF28EC0043E8CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "OSU.CS4153-Unit-3-Explore---Discover-Emory-MeursingUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "CS4153 Unit 3 Explore & Discover Emory Meursing";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6EFD5AC32DAF28EA0043E8CA /* Build configuration list for PBXProject "CS4153 Unit 3 Explore & Discover Emory Meursing" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6EFD5AEA2DAF28EC0043E8CA /* Debug */,
+				6EFD5AEB2DAF28EC0043E8CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6EFD5AEC2DAF28EC0043E8CA /* Build configuration list for PBXNativeTarget "CS4153 Unit 3 Explore & Discover Emory Meursing" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6EFD5AED2DAF28EC0043E8CA /* Debug */,
+				6EFD5AEE2DAF28EC0043E8CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6EFD5AEF2DAF28EC0043E8CA /* Build configuration list for PBXNativeTarget "CS4153 Unit 3 Explore & Discover Emory MeursingTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6EFD5AF02DAF28EC0043E8CA /* Debug */,
+				6EFD5AF12DAF28EC0043E8CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6EFD5AF22DAF28EC0043E8CA /* Build configuration list for PBXNativeTarget "CS4153 Unit 3 Explore & Discover Emory MeursingUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6EFD5AF32DAF28EC0043E8CA /* Debug */,
+				6EFD5AF42DAF28EC0043E8CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6EFD5AC02DAF28EA0043E8CA /* Project object */;
+}
